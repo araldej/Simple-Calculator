@@ -1,0 +1,36 @@
+c:\users\a.r.al-deg\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\a.r.al-deg\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\a.r.al-deg\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\a.r.al-deg\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\a.r.al-deg\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\a.r.al-deg\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\a.r.al-deg\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\a.r.al-deg\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+c:\users\a.r.al-deg\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.AboutBox.resources
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.Main.resources
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\bin\Debug\Calculator.application
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.application
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.PrimeChecker.resources
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\bin\Debug\Guna.UI2.dll
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.Up2Date
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\bin\Debug\ar\Calculator.resources.dll
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\bin\Debug\en\Calculator.resources.dll
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.Setting.resources
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.Main.ar.resources
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.Main.en.resources
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\ar\Calculator.resources.dll
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\en\Calculator.resources.dll
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.Setting.ar.resources
+C:\Users\A.R.Al-Deg\source\repos\Calculator\Calculator\obj\Debug\Calculator.PrimeChecker.ar.resources
